@@ -11,7 +11,7 @@ namespace _22._09._06study2
         static void Main(string[] args)
         {
             string str = "3" + ".14";
-            Console.WriteLine(+5); //양 5 (거의 사용되지 않음
+            Console.WriteLine(+5); //양 5 (거의 사용되지 않음)
             Console.WriteLine(5+5);// 양 10
             Console.WriteLine(5+.5);// 소수 5.5
             Console.WriteLine("5" + "5"); // 문자열 연결식 55
