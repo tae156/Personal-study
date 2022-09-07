@@ -37,7 +37,7 @@ namespace _22._09._06studyA10
             {
                 Console.WriteLine("예외 발생");
             }
-            Console.WriteLine("try문 밖에서 변수 출력 {0}", m);
+            //Console.WriteLine("try문 밖에서 변수 출력 {0}", m);
             //현제 초기 값을 가지고 있지 않아 에러 표출이 되고 있는데
             //try안에서 초기값이 이루어지고 있고 그 외 밖에서 사용이 불가능하다.
 
